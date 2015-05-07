@@ -1,0 +1,28 @@
+New line through Git, I like it:)
+
+During last 4 months I've done this:
+
+- reported more than 60 bugs via Jira and just above 15 in Visual Studio Online (goitgoqa.wix.com/gocupcake, CallsFreeCalls hybrid app for iOS, http://www.hromadske.tv/, https://beta.pibox.com);
+
+- created a ton (30 :) ) of test cases and a test plan;
+
+- conducted qualitative requirement analysis;
+
+- prepared 2 QA (test) reports (for goitgoqa.wix.com/gocupcake, http://www.hromadske.tv/);
+
+- run 3 performance tests in JMeter;
+
+- produced 3 checklists;
+
+- draw a bulk of mindmaps (+ I love UML);
+
+- prepared 1 web testing environment (Selenium IDE + Intellij Idea).
+
+- created and will hopefully keep my Git stuff up-to-date.
+
+All QA documents are available upon request.
+
+Don't hesitate to contact me!
+
+Best regards,
+Dmytro Gavryshchyshyn
