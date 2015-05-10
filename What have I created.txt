@@ -16,8 +16,6 @@ During last 4 months I've done this:
 
 - draw a bulk of mindmaps (+ I love UML);
 
-- prepared 1 web testing environment (Selenium IDE + Intellij Idea).
-
 - created and will hopefully keep my Git stuff up-to-date.
 
 All QA documents are available upon request.
